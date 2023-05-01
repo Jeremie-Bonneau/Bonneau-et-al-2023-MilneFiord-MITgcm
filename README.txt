@@ -1,7 +1,7 @@
 These are the necessary files to rerun the numerical experiment by Bonneau et al. (2023)
 Steps:
 1. Download MITgcm code
-2. Download Iceplume package by Tom Cowton
+2. Download Iceplume package by Tom Cowton (https://github.com/tcowton/iceplume)
 3. Replace the pkg folder of the Iceplume package by the files provided in the iceplume_angle folder here
 4. Unzip the code folder provided here
 5. In build subdir, Generate a make file using the genmake tool that comes with the MITgcm file (see MITgcm manual)
