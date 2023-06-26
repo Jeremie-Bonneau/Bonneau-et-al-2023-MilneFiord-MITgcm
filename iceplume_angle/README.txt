@@ -5,4 +5,4 @@ sin_beta is sin(beta) and beta is the angle between the horizontal and the glaci
 As specified in Bonneau et al (2023), to implement a constant slope, the user has to multiplied gravity (g) by (1/sin_beta)^2 and
 the entrainment (E_0) by 1/sin_beta. 
 
-If someone whish to use this modification, they only have to replace the file in the pkg folder of the iceplume_package by these ones. 
+If someone wish to use this modification, they only have to replace the file in the pkg folder of the iceplume_package by these ones. 
