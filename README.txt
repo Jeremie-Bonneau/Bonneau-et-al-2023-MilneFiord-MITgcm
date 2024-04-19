@@ -1,4 +1,6 @@
-These are the necessary files to rerun the numerical experiment by Bonneau et al. (2023)
+These are the necessary files to rerun the numerical experiment b:
+Bonneau, J., Laval, B. E., Mueller, D., Hamilton, A. K., Forrest, A. L. 2024. Unsteady Circulation in a Glacial Fjord: a Multiyear Modelling Study of Milne Fiord. Journal of Geophysical Research: Oceans
+
 Steps:
 1. Download MITgcm code, I used checkpoint 67z.
 2. Download the Iceplume package by Tom Cowton (https://github.com/tcowton/iceplume)
