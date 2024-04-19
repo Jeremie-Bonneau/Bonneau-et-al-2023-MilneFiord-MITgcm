@@ -1,4 +1,4 @@
-These are the necessary files to rerun the numerical experiment b:
+These are the necessary files to rerun the numerical experiment by:
 Bonneau, J., Laval, B. E., Mueller, D., Hamilton, A. K., Forrest, A. L. 2024. Unsteady Circulation in a Glacial Fjord: a Multiyear Modelling Study of Milne Fiord. Journal of Geophysical Research: Oceans
 
 Steps:
